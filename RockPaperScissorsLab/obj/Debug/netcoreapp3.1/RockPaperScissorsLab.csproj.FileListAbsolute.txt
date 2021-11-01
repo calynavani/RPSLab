@@ -1,0 +1,14 @@
+C:\Users\CGreene1\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\bin\Debug\netcoreapp3.1\RockPaperScissorsLab.exe
+C:\Users\CGreene1\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\bin\Debug\netcoreapp3.1\RockPaperScissorsLab.deps.json
+C:\Users\CGreene1\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\bin\Debug\netcoreapp3.1\RockPaperScissorsLab.runtimeconfig.json
+C:\Users\CGreene1\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\bin\Debug\netcoreapp3.1\RockPaperScissorsLab.runtimeconfig.dev.json
+C:\Users\CGreene1\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\bin\Debug\netcoreapp3.1\RockPaperScissorsLab.dll
+C:\Users\CGreene1\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\bin\Debug\netcoreapp3.1\RockPaperScissorsLab.pdb
+C:\Users\CGreene1\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CGreene1\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.AssemblyInfoInputs.cache
+C:\Users\CGreene1\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.AssemblyInfo.cs
+C:\Users\CGreene1\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.csproj.CoreCompileInputs.cache
+C:\Users\CGreene1\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.dll
+C:\Users\CGreene1\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.pdb
+C:\Users\CGreene1\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.genruntimeconfig.cache
+C:\Users\CGreene1\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.csproj.AssemblyReference.cache
